@@ -59,3 +59,9 @@ body{
     color:#6b6b01;
     transform:scale(1.1);
 }
+.hero img{
+    width:100px;
+    height:100px;
+    object-fit:cover;
+    background: radial-gradient(circle, rgb(159, 76, 76) 0%, rgba(255,255,255,0) 100%);
+}
